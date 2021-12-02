@@ -1,0 +1,25 @@
+{
+  "name": "adventofcodesolutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snlaight/adventOfCodeSolutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snlaight/adventOfCodeSolutions/issues"
+  },
+  "homepage": "https://github.com/snlaight/adventOfCodeSolutions#readme",
+  "dependencies": {
+    "fs": "*",
+    "path": "^0.12.7",
+    "readline": "^1.3.0"
+  }
+}
